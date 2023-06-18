@@ -1,6 +1,10 @@
 # Electronics
 
 Quick Electronics portfolio in progress
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vjTF_rUfjfM/0.jpg)](https://www.youtube.com/watch?v=vjTF_rUfjfM)
+
+
 ![20210421_210640](https://github.com/kevintah/Electronics/assets/95604034/a40af835-db39-4e54-acc0-69cb64b0150b)
 ![20210424_153146_HDR](https://github.com/kevintah/Electronics/assets/95604034/0b2f8b34-4249-4f55-8c23-72a7bb837dcd)
 ![20210421_210640](https://github.com/kevintah/Electronics/assets/95604034/451084c8-7ade-4511-a557-8c5d33cb52b0)
